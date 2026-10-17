@@ -1,4 +1,3 @@
-```markdown
 # CHEN LIN - Data Science Portfolio
 
 ## About Me
@@ -16,7 +15,7 @@ Hello! I am **CHEN LIN**. I am passionate about using data analysis to uncover p
 
 **Visualization & Findings:**
 
-![Plot 1](https://raw.githubusercontent.com/clin689/data-science-project/main/images/1.png)
+![Visualization 1](https://raw.githubusercontent.com/clin689/data-science-project/main/images/1.png)
 
 *The plot shows insights from the dataset.*
 
